@@ -30,7 +30,6 @@ I'm a passionate Data Engineer based in London, UK, with a BSc in Computer Scien
 
 I combine hands-on project experience, cloud technologies, and a continuous learning mindset to design and build scalable data pipelines and modern data platforms.
 
-I'm currently looking for an opportunity to begin my dedicated Data Engineering career, contribute to real-world projects, and grow alongside experienced engineers.
 
 - 🎓 BSc in Computer Science – Daffodil International University
 - 🏆 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
