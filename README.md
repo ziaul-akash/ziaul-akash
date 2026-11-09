@@ -243,17 +243,42 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 
 ## 📈 GitHub Analytics
 
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<!-- GitHub Stats and Top Languages -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ziaul-akash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ziaul-akash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Akash's GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaul-akash&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Akash's Top Languages"
+  />
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ziaul-akashE&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=ziaul-akash&theme=tokyonight&hide_border=true"
+    alt="Akash's GitHub Streak"
+  />
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziaul-akash&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ziaul-akash&theme=tokyo-night&hide_border=true"
+    alt="Akash's GitHub Activity Graph"
+  />
 </p>
+
+<!-- ================= END GITHUB ANALYTICS ================= -->
 
 ---
 
