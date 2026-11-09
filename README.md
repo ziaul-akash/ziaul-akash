@@ -34,7 +34,7 @@ I combine hands-on project experience, cloud technologies, and a continuous lear
 - 🎓 BSc in Computer Science – Daffodil International University
 - 🏆 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
 - ☁️ Focused on Microsoft Fabric, Azure, and Cloud Data Engineering
-- 🔄 Experienced in Medallion Architecture, ETL/ELT, and CI/CD
+- 🔄 Experienced in Medallion Architecture, ETL/ELT, CI/CD and AI-Driven Data Solutions
 - 📊 Passionate about data platforms, analytics, and business intelligence
 - 📍 London, United Kingdom
 - 💡 Always learning, building, and improving
