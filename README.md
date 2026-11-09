@@ -137,15 +137,15 @@ Built an automated ETL pipeline using Azure Data Factory, Azure Databricks (PySp
 
 🔹 Business Impact:
 
-Automated data ingestion and transformation, reducing manual intervention.
+  - Automated data ingestion and transformation, reducing manual intervention.
 
-Optimised data storage using Parquet/Delta formats for efficient processing and analytics.
+  - Optimised data storage using Parquet/Delta formats for efficient processing and analytics.
 
-Simplified complex data transformations into reusable PySpark workflows.
+  - Simplified complex data transformations into reusable PySpark workflows.
 
-Enabled faster and more accessible sales reporting through Synapse Analytics and Power BI.
+  - Enabled faster and more accessible sales reporting through Synapse Analytics and Power BI.
 
-Improved pipeline reliability, security, and operational visibility.
+  - Improved pipeline reliability, security, and operational visibility.
 
 **Key Technologies:**
 - Azure Data Factory
