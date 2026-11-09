@@ -244,8 +244,7 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ziaul-akash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaul-akash&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ziaul-akash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
