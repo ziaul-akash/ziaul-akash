@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ziaul-akash/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Microsoft+Fabric+Data+Engineer;AI+Driven+Data+Solutions;Azure+Data+Engineering+Enthusiast;Building+End-to-End+Data+Pipelines;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Microsoft+Fabric+Data+Engineer;AI+Driven+Data+Solutions;Azure+Data+Engineering+Enthusiast;Building+End-to-End+Data+Pipelines;Turning+Raw+Data+Into+Intelligent+Decisions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -244,30 +244,21 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ziaul-akash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaul-akash&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ziaul-akashE&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziaul-akash&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
-
-I'm open to opportunities in:
-
-- Microsoft Fabric Data Engineering
-- Azure Data Engineering
-- Cloud Data Platforms
-- Data Analytics & BI
-
-If you're looking for someone who is committed to learning, building, and contributing to a data engineering team, I'd love to connect.
 
 <p align="center">
   <a href="mailto:Iam.akash966@gmail.com">
@@ -279,7 +270,7 @@ If you're looking for someone who is committed to learning, building, and contri
 </p>
 
 <p align="center">
-  <i>"Building data solutions, one pipeline at a time."</i>
+  <i>"Architecting Data. Accelerating AI. Delivering Impact."</i>
 </p>
 
 <p align="center">
