@@ -89,9 +89,13 @@ I combine hands-on project experience, cloud technologies, and a continuous lear
 ## 🏗️ Featured Data Engineering Projects
 
 <details>
-<summary><b>🚀 LMS Data Platform & Enterprise CI/CD Pipeline – Microsoft Fabric</b></summary>
+<summary><b>🚀 AI-Powered Learning Ecosystem – Microsoft Fabric</b></summary>
 
-Architected and implemented an end-to-end Learning Management System data platform using Microsoft Fabric, Medallion Architecture, and DevOps CI/CD practices.
+Architected and implemented an end-to-end, AI-powered Learning Management System (LMS) Data Platform using Microsoft Fabric, Medallion Architecture (Bronze, Silver & Gold), and Azure DevOps CI/CD automation.
+
+Integrated an AI-powered Data Agent that enables business users to ask questions in natural language and receive intelligent, data-driven answers directly from enterprise LMS data, eliminating the need for SQL expertise.
+
+Business Impact: Democratised data access, accelerated business insights, improved learning analytics, automated deployment workflows, and established a scalable foundation for AI-driven decision-making.
 
 **Key Technologies:**
 - Microsoft Fabric
@@ -103,9 +107,13 @@ Architected and implemented an end-to-end Learning Management System data platfo
 </details>
 
 <details>
-<summary><b>☁️ Azure End-to-End COVID-19 Data Engineering Project</b></summary>
+<summary><b>☁️ PandemicVision-End-to-End-Data-Intelligence-Platform</b></summary>
 
-Built an end-to-end Azure data engineering pipeline to ingest COVID-19 data, transform it at scale, and deliver analytics through Power BI.
+The PandemicVision – End-to-End Data Intelligence Platform is a cloud-based data engineering project designed to demonstrate how modern Microsoft Azure services can be integrated to build a scalable, automated, and analytics-ready data platform.
+
+The project integrates COVID-19 public health data from the European Centre for Disease Prevention and Control (ECDC) with population reference data stored in Azure Blob Storage.
+
+Using Microsoft Azure's data engineering ecosystem, the solution automates the complete data lifecycle — from source ingestion and raw data storage to advanced transformations, relational data serving, and interactive business intelligence reporting.
 
 **Key Technologies:**
 - Azure Data Factory
@@ -117,9 +125,27 @@ Built an end-to-end Azure data engineering pipeline to ingest COVID-19 data, tra
 </details>
 
 <details>
-<summary><b>📊 CRM Sales Azure Data Engineering Project</b></summary>
+<summary><b>📊 SalesStream-Automated-CRM-Data-Engineering-Business-Intelligence</b></summary>
 
-Implemented a secure and scalable Azure data pipeline from on-premises CRM data to Power BI dashboards.
+Designed and developed an end-to-end Azure Data Engineering pipeline to transform raw Customer Relationship Management (CRM) sales data into analytics-ready insights.
+
+🔹 Business Problem:
+Manual data ingestion, inconsistent data quality, inefficient storage, and complex reporting processes can delay sales insights and increase operational effort.
+
+🔹 Solution:
+Built an automated ETL pipeline using Azure Data Factory, Azure Databricks (PySpark), ADLS Gen2, Azure Synapse Analytics, and Power BI. Implemented secure secret management using Azure Key Vault, Git integration, automated email alerts through Logic Apps, and pipeline monitoring with Azure Monitor.
+
+🔹 Business Impact:
+
+Automated data ingestion and transformation, reducing manual intervention.
+
+Optimised data storage using Parquet/Delta formats for efficient processing and analytics.
+
+Simplified complex data transformations into reusable PySpark workflows.
+
+Enabled faster and more accessible sales reporting through Synapse Analytics and Power BI.
+
+Improved pipeline reliability, security, and operational visibility.
 
 **Key Technologies:**
 - Azure Data Factory
@@ -133,7 +159,16 @@ Implemented a secure and scalable Azure data pipeline from on-premises CRM data 
 <details>
 <summary><b>🚕 NYC Taxi Data Engineering – Azure Databricks</b></summary>
 
-Designed and implemented an end-to-end scalable Azure Databricks Lakehouse pipeline with incremental ETL, SCD Type 2, Delta Lake, and Gold-layer analytics.
+Built an automated, incremental data engineering pipeline to process NYC Yellow Taxi trip data using Azure Databricks, PySpark, Delta Lake, and Unity Catalog.
+
+🔹 Key Problem:
+Unstructured raw data, a strict 2-month vendor reporting lag, duplicate processing, and historical taxi zone changes created data bottlenecks and unreliable analytics.
+
+🔹 Solution:
+Implemented a scalable Medallion Architecture (Bronze → Silver → Gold) with automated incremental processing, idempotent ingestion, SCD Type 2 historical tracking, and optimized data partitioning. Integrated Databricks Jobs for orchestration and ADLS Gen2 for secure external JSON data sharing.
+
+🔹 Business Impact:
+Enabled reliable historical reporting, analytics-ready Gold datasets, improved query performance, and data-driven insights for demand forecasting, revenue optimization, and fleet deployment planning.
 
 **Key Technologies:**
 - Azure Databricks
