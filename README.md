@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Microsoft+Fabric+Data+Engineer;Azure+Data+Engineering+Enthusiast;Building+End-to-End+Data+Pipelines;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+  <a href="https://github.com/ziaul-akash/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Microsoft+Fabric+Data+Engineer;AI+Driven+Data+Solutions;Azure+Data+Engineering+Enthusiast;Building+End-to-End+Data+Pipelines;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/ziaul-akash/">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:Iam.akash966@gmail.com">
