@@ -255,11 +255,11 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
     src="https://github-readme-stats.vercel.app/api?username=ziaul-akash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="Akash's GitHub Stats"
   />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziaul-akash&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Akash's Top Languages"
-  />
+ <img
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ziaul-akash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Akash's Top Languages"
+/>
 </p>
 
 <!-- GitHub Streak Stats -->
@@ -272,10 +272,13 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ziaul-akash&theme=tokyo-night&hide_border=true"
-    alt="Akash's GitHub Activity Graph"
-  />
+  <a href="https://github.com/ziaul-akash">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ziaul-akash&theme=tokyo-night&hide_border=true&area=true"
+      alt="Akash's GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
 <!-- ================= END GITHUB ANALYTICS ================= -->
