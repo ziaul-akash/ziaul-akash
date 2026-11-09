@@ -229,7 +229,7 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 </details>
 
 <details>
-<summary><b>Front End Developer – Systech Unimax, Dhaka, Bangladesh</b></summary>
+<summary><b> Web Developer – Systech Unimax, Dhaka, Bangladesh</b></summary>
 
 **September 2020 – December 2022**
 
