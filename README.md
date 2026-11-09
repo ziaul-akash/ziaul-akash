@@ -91,7 +91,7 @@ I combine hands-on project experience, cloud technologies, and a continuous lear
 <details>
 <summary><b>🚀 AI-Powered Learning Ecosystem – Microsoft Fabric</b></summary>
 
-Architected and implemented an end-to-end, AI-powered Learning Management System (LMS) Data Platform using Microsoft Fabric, Medallion Architecture (Bronze, Silver & Gold), and Azure DevOps CI/CD automation.
+Architected and implemented an end-to-end, AI-powered Learning Eco System Data Platform using Microsoft Fabric, Medallion Architecture (Bronze, Silver & Gold), and Azure DevOps CI/CD automation.
 
 Integrated an AI-powered Data Agent that enables business users to ask questions in natural language and receive intelligent, data-driven answers directly from enterprise LMS data, eliminating the need for SQL expertise.
 
@@ -157,7 +157,7 @@ Improved pipeline reliability, security, and operational visibility.
 </details>
 
 <details>
-<summary><b>🚕 NYC Taxi Data Engineering – Azure Databricks</b></summary>
+<summary><b>🚕 Enterprise Mobility Data Engine - End-to-End Incremental Lakehouse Pipeline with Azure Databricks & Unity Catalog</b></summary>
 
 Built an automated, incremental data engineering pipeline to process NYC Yellow Taxi trip data using Azure Databricks, PySpark, Delta Lake, and Unity Catalog.
 
@@ -189,19 +189,6 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 - Delta Live Tables
 - Streaming Data
 - Real-Time Analytics
-
-</details>
-
-<details>
-<summary><b>⚡ Fast Pace X Azure CI/CD Project</b></summary>
-
-Built a production-ready Azure CI/CD pipeline using Azure DevOps and ARM Templates to automate deployments across development, test, and production environments.
-
-**Key Technologies:**
-- Azure DevOps
-- ARM Templates
-- CI/CD
-- Azure Infrastructure
 
 </details>
 
