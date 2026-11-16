@@ -207,14 +207,14 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 ## 💼 Professional Background
 
 <details>
-<summary><b>IT Support – Capital City College Group, London, UK</b></summary>
+<summary><b>Learning Resource Centre Officer – Capital City College Group, London, UK</b></summary>
 
 **August 2024 – Present**
 
-Support digital technology adoption, AI literacy and frontline IT services, helping students and staff enhance learning and productivity through digital tools.
+Support digital technology adoption, AI literacy and frontline IT services, helping learners and staff enhance learning and productivity through digital tools.
 - AI & Digital Adoption: Promote the practical use of AI tools and emerging technologies.
 - Digital Skills Training: Design and deliver training on AI tools, eResources and digital platforms.
-- IT Support: Provide frontline technical assistance and troubleshoot IT issues for students and staff.
+- IT Support: Provide frontline technical assistance and troubleshoot IT issues for learners and staff.
 - Digital Literacy: Empower users to develop digital confidence and effectively navigate online learning resources.
 - User Experience: Identify user needs and provide practical solutions to improve digital engagement.
 
