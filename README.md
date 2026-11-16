@@ -211,10 +211,12 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 
 **August 2024 – Present**
 
-- Provide IT support to students and staff.
-- Support digital literacy, AI, and eResource learning sessions.
-- Manage laptop distribution and IT-related processes.
-- Develop communication, troubleshooting, and problem-solving skills.
+Support digital technology adoption, AI literacy and frontline IT services, helping students and staff enhance learning and productivity through digital tools.
+- AI & Digital Adoption: Promote the practical use of AI tools and emerging technologies.
+- Digital Skills Training: Design and deliver training on AI tools, eResources and digital platforms.
+- IT Support: Provide frontline technical assistance and troubleshoot IT issues for students and staff.
+- Digital Literacy: Empower users to develop digital confidence and effectively navigate online learning resources.
+- User Experience: Identify user needs and provide practical solutions to improve digital engagement.
 
 </details>
 
@@ -223,8 +225,12 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 
 **February 2023 – August 2024**
 
-- Delivered customer service in a fast-paced environment.
-- Developed teamwork, communication, and adaptability.
+Delivered excellent customer service in a fast-paced indoor theme park, ensuring visitors enjoyed a safe, welcoming and positive experience.
+
+- Customer Service: Assisted visitors with enquiries and provided friendly, professional support.
+- Problem-Solving: Handled customer concerns and resolved issues efficiently.
+- Daily Operations: Processed transactions, maintained organised work areas and supported smooth operations.
+- Teamwork & Communication: Worked effectively with colleagues and customers from diverse backgrounds.
 
 </details>
 
@@ -233,9 +239,11 @@ Built a real-time bridge health monitoring pipeline using streaming sensor data 
 
 **September 2020 – December 2022**
 
-- Managed end-to-end website development.
-- Improved website functionality and responsiveness.
-- Built and integrated custom WordPress themes.
+Contributed to the development, customisation and maintenance of responsive, user-friendly websites, delivering digital solutions aligned with client and business requirements.
+
+- Website Development: Designed and developed websites from scratch using HTML, CSS and Laravel, as well as WordPress.
+- Customisation & Optimisation: Customised website themes and improved performance, responsiveness and user experience.
+- Maintenance & Troubleshooting: Resolved technical issues, implemented updates and ensured smooth website operation.
 
 </details>
 
