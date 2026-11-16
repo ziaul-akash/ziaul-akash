@@ -235,7 +235,7 @@ Delivered excellent customer service in a fast-paced indoor theme park, ensuring
 </details>
 
 <details>
-<summary><b> Web Developer – Systech Unimax, Dhaka, Bangladesh</b></summary>
+<summary><b> Full Stack Web Developer – Systech Unimax, Dhaka, Bangladesh</b></summary>
 
 **September 2020 – December 2022**
 
